@@ -1,5 +1,4 @@
 library(ggtext)
-library(cowplot)
 library(patchwork)
 library(tidyverse)
 library(ggplot2)
