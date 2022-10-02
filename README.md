@@ -30,6 +30,9 @@ Graphs are strong mathematical tools employed to investigate the interaction and
 
 ![image](https://user-images.githubusercontent.com/113156852/193439416-f216a55f-14f7-4d1e-9f7b-bbd1160287d8.png)
 
+## tessellation-partitioning of hydrogel microstructure
 
+Voronoi tessellation is a method to segment the points based on the Euclidean distance relative to the reference point. This method does not need any prior parameter to “learn” about the clusters compared to the previous methods. Forming all partitions generates polygons around each point called “Voronoi cell”. The area of Voronoi cells is smaller for the closer points where the small pores cluster exists.The color-coded maps show the density and Voronoi cell areas of the samples. To locate the clusters with this method, the Gaussian distribution of Voronoi cell areas for each sample (shown in green in Figure 11) was compared with Voronoi cell area distribution of the corresponding complete state of randomness (CSR) model. 
 
+![image](https://user-images.githubusercontent.com/113156852/193445494-d64ce659-fac6-43a1-b93d-706aec520045.png)
 
