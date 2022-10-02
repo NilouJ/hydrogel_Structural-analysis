@@ -24,5 +24,12 @@ The radial pair correlation is one of the correlation-based clustering methods u
 
   ![image](https://user-images.githubusercontent.com/113156852/193439173-185fa645-337b-45cf-90c7-a4ed39ac3c89.png)
 
+## Network/graph-based analysis 
+
+Graphs are strong mathematical tools employed to investigate the interaction and relation between the objects or entities of a system[46]. Graph theory can be used for the localization of specific structures based on predefined criteria e.g., distance or number of neighboring points. In the clustering context, the entities are the data points that are represented as graph nodes, and the connectivity between the points is defined as edges. Graph-based clusters were formed based on a connectivity matrix. The connectivity matrix is used to construct various simple or complex graphs to study the data points.The spectral clustering was applied to localize different clusters in the constructed graphs.
+
+![image](https://user-images.githubusercontent.com/113156852/193439416-f216a55f-14f7-4d1e-9f7b-bbd1160287d8.png)
+
+
 
 
